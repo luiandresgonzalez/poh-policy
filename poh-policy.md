@@ -24,6 +24,8 @@ The criteria to be met for a submission to be accepted in this registry are the 
   
 - The submitter must provide all the elements required for the submission.
   - For example, a submitter cannot be registered if his video submission does not display his Ethereum address.
+
+- The submitter must not have been removed from the registry for charges of vouchallenging in the last x years.
   
 ## Elements Required for Submission
 
@@ -121,3 +123,7 @@ The removal requester has to either:
     - Evidence Name: Self-removal of submission
     - Evidence Description: I am the submitter and I want to remove this submission. The video attached is a recording of myself saying the sentence “I want to remove my own submission from the Proof of Humanity registry.”
 
+- Or provide evidence that they are using their profile for vouchallenge attacks, according to what is layed out in HIP-XX.
+  - Example: Send the following removal request
+    - Evidence Name: This profile is performing vouchallenges
+    - Evidence Description: there has been x profiles vouched that resulted in a challenge, over a total of x vouches of this profile. 
